@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1651119232 source:d:\education\nti\projects\school management\data.c
+	"header.h"
+
+1651132014 d:\education\nti\projects\school management\header.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+
+1651132509 source:d:\education\nti\projects\school management\main.c
+	"header.h"
+
+1651132014 source:d:\education\nti\projects\school management\subfunctions.c
+	"header.h"
+
+1651133003 source:d:\education\nti\projects\school management\functions.c
+	"header.h"
+
+1651119232 source:d:\education\nti\codes\projects\school management\data.c
+	"header.h"
+
+1651132014 d:\education\nti\codes\projects\school management\header.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+
+1651133003 source:d:\education\nti\codes\projects\school management\functions.c
+	"header.h"
+
+1651147335 source:d:\education\nti\codes\projects\school management\main.c
+	"header.h"
+
+1651132014 source:d:\education\nti\codes\projects\school management\subfunctions.c
+	"header.h"
+
